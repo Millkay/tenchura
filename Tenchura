@@ -1,0 +1,17 @@
+{
+  "title": "<Tenchura>",
+  "description": "<manga description>",
+  "artist": "<Chacha>",
+  "author": "<Fuse>",
+  "cover": "<https://cover.imglib.info/uploads/cover/tenchura-tensei-shitara-slime-datta-ken/cover/gOv6ApJuCPOa_250x350.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "<1>",
+      "volume": "<1>",
+      "groups": {
+        "<Original>": "/proxy/api/imgur/chapter/<bM0JY8w>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
